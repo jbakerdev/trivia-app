@@ -21,4 +21,4 @@ Justin Baker <me@jbaker.dev>
 
 ## License
 
-There is none. Free as in speech, free as
+There is none. Free as in speech, free as in beer.
